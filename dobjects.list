@@ -1,4 +1,0 @@
-PortName : "a", Direction : "vpiInput", HierPath : "alu.a"
-PortName : "b", Direction : "vpiInput", HierPath : "alu.b"
-PortName : "s", Direction : "vpiInput", HierPath : "alu.s"
-PortName : "c", Direction : "vpiOutput", HierPath : "alu.c"
