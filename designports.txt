@@ -1,0 +1,1 @@
+Input a , Input b , Input s , Output c 
