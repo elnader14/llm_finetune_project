@@ -1,1 +1,0 @@
-** Error: (vlog-13069) sva_module.sv(3): near "EOF": syntax error, unexpected end of source code.
