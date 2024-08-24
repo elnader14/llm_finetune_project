@@ -1,3 +1,2 @@
-Command: Run Assertion
+Command: Generate Port List
 Design: alu
-SVA File: sva_module.sv
