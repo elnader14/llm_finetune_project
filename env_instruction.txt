@@ -1,3 +1,0 @@
-Command: Run Assertion
-Design: alu
-SVA File: sva_module.sv
