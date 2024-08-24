@@ -1,0 +1,2 @@
+Command: Generate Port List
+Design: alu
