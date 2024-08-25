@@ -1,1 +1,0 @@
- "a", Direction ,  "b", Direction ,  "s", Direction ,  "c", Direction 
