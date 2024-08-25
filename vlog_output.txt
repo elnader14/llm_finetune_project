@@ -1,0 +1,1 @@
+** Error: sva_module.sv(2): (vlog-2730) Undefined variable: 'clk'.
