@@ -1,2 +1,0 @@
-Command: Exit
-Design: alu
